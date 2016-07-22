@@ -1,1 +1,8 @@
 /* file for your css */
+#arrow-left {
+  margin-left: 0 !important;
+}
+
+#arrow-right {
+  margin-left: 0 !important;
+}
